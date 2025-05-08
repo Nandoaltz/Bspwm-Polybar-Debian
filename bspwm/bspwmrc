@@ -3,7 +3,7 @@
 pgrep -x sxhkd > /dev/null || sxhkd &
 
 bspc monitor -d I II III IV V VI VII
-bspc config top_padding 35
+bspc config top_padding 22
 
 bspc config border_width         2
 bspc config window_gap          12
@@ -22,7 +22,7 @@ bspc rule -a Kupfer.py focus=on
 bspc rule -a Screenkey manage=off
 
 xsetroot -cursor_name left_ptr
-feh --bg-scale Downloads/hwjgtytmvrh71.png
+feh --bg-scale Imagens/<Coloca teu wallpaper aqui>
 picom &
 polybar example &
 
