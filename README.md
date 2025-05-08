@@ -1,3 +1,3 @@
-##Debian com Bspwm e polybar 
+## Debian com Bspwm e polybar 
 
-![Tela inicial](nvim/Katakana.png)
+![Tela inicial](TELA.png)
